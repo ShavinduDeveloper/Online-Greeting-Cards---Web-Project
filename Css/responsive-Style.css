@@ -1,0 +1,164 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 30, 2021, 8:38:28 PM
+    Author     : Shavindu Thushara Sa
+*/
+
+@media(min-width:1200px){
+    .bg2L{
+        height: 400px;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px){
+    .bg2L{
+        height: 420px;
+    }
+}
+
+@media(min-width:542px) and (max-width:613px){
+    #headingR {
+        font-size: 40px;
+    }
+}
+
+@media(min-width:320px) and (max-width:542px){
+    #headingR {
+        font-size: 40px;
+        font-weight: bold;
+    }
+}
+
+@media(min-width:379px) and (max-width:613px){
+    div .card-image{
+        padding: 20px 50px;
+    }
+    div .card-song{
+        padding: 20px 50px;
+    }
+    #heading1R{
+        font-size: 26px;;
+        font-weight: bold;
+    }
+/*    h2 .link{
+        font-size: 20px;
+    }*/
+}
+
+@media(min-width:320px) and (max-width:380px){
+    div .card-image{
+        padding: 20px 25px;
+    }
+    div .card-song{
+        padding: 20px 25px;
+        height: 315px;
+    }
+    #heading1R{
+        font-size: 26px;;
+        font-weight: bold;
+    }
+    #buttonRi{
+        width: 100%;
+    }
+    #buttonRi1{
+        width: 100%;
+    }
+    .displayF{
+        width: 100%;
+        font-size: 4vw;
+    }
+}
+
+@media(min-width:100px) and (max-width:319px){
+    div .card-image{
+        padding: 20px 10px;
+    }
+    div .card-song{
+        padding: 20px 10px;
+    }
+    .bg1 #indexh1{
+        font-size: 10px;
+    }
+    #heading1R{
+        font-size: 15px;;
+        font-weight: bold;
+    }
+    #headingR{
+        font-size: 30px;;
+        font-weight: bold;
+    }
+    #buttonRi{
+        width: 100%;
+        font-size: 20px;
+    }
+    #buttonRi1{
+        width: 100%;
+        font-size: 20px;
+    }
+    .displayF{
+        width: 100%;
+        font-size: 4vw;
+    }
+}
+
+@media(min-width:614px) and (max-width:991px){
+    .bg2L{
+        height: 420px;
+    }
+    #heading1R{
+        font-size: 27px;;
+        font-weight: bold;
+    }
+}
+
+@media(min-width:100px) and (max-width:767px){
+    #img123 img{
+        width: 35%;
+    }
+}
+
+@media(min-width:442px) and (max-width:576px){
+    h2 .link{
+        font-size: 20px;
+    }
+}
+
+@media(min-width:415px) and (max-width:441px){
+    h2 .link{
+        font-size: 18px;
+    }
+}
+
+@media(min-width:401px) and (max-width:414px){
+    h2 .link{
+        font-size: 17px;
+    }
+}
+
+@media(min-width:388px) and (max-width:400px){
+    h2 .link{
+        font-size: 16px;
+    }
+}
+
+@media(min-width:374px) and (max-width:387px){
+    h2 .link{
+        font-size: 15px;
+    }
+}
+
+@media(min-width:307px) and (max-width:373px){
+    h2 .link{
+        font-size: 10px;
+    }
+}
+
+@media(min-width:100px) and (max-width:306px){
+    h2 .link{
+        font-size: 9px;
+    }
+}
